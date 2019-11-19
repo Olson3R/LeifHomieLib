@@ -15,8 +15,8 @@
   "version": "0.0.1",
   "license": "LGPL-3.0",
   "frameworks": "arduino",
-  "platforms": "espressif8266",
+  "platforms": ["espressif32", "espressif8266"],
   "build": {
     "libCompatMode": 2
-  }  
+  }
 }
